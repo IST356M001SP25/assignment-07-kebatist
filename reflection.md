@@ -23,7 +23,7 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
-I am going to be so honest and say that i spent literally 5 hours doing this lab and wondering why I could not do anything only to find out it was because there were two different cache folder. Congraulations to Copilot and I for solving the issues after many painful hours doing thif godforsaken assignment. 
+I am going to be so honest and say that i spent literally 5 hours doing this lab and wondering why I could not do anything only to find out it was because there were two different cache folder. Congraulations to Copilot and I for solving the issues after many painful hours doing this godforsaken assignment. 
 
 This codebase demonstrates the full lifecycle of a web scraping project, from extracting unstructured data to cleaning and saving it in a structured format. A key learning was how to clean and process text data scraped from a webpage. For instance, the function clean_scraped_text(scraped_text: str) filters out irrelevant symbols like "GS" or "NEW", removes blank lines, and returns a clean list of menu item components. This ensures that only meaningful information (name, price, description) is retained. Similarly, clean_price(price: str) handles price strings with dollar signs and commas, converting them into usable float values. These small utility functions form the backbone of reliable text data preprocessing.
 
