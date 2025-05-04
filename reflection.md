@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I am going to be so honest and say that i spent literally 5 hours doing this lab and wondering why I could not do anything only to find out it was because there were two different cache folder. Congraulations to Copilot and I for solving the issues after many painful hours doing thif godforsaken assignment. 
